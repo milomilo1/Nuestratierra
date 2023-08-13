@@ -1,0 +1,89 @@
+@media (max-width: 1024px) {
+    h1{
+     font-size: 3em;
+    } 
+    header {
+     width: 100%;
+     height: 70px;
+     
+    }
+ #hero {
+     border-image-repeat: repeat;
+ }
+ }
+ 
+ @media (max-width: 768px) {
+    h1 {
+         font-size: 2em;
+     }
+     .map {
+ width: 10%;
+ height: 10%;
+     }
+  .cards-bolson-shopp {
+         padding: 15px;
+         width: 30%;
+         height: 380px;
+         border-radius: 5px;
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         margin-top: 60px;
+         box-shadow: 0px 0px 10px #335233;
+     }
+  
+     .about-us-text {
+ line-height: 30px;
+ word-spacing: 2px;
+ 
+ font-size: 1.2em;
+ font-weight: 500;
+     }
+ .navbar-list {
+     display: flex;
+     margin: 30px;
+     gap: 25px;
+     letter-spacing: 3px;
+     font-size: 1.2em;
+ font-weight: bold;
+ align-items: center;
+ }
+ 
+ .cards-bolson-shopp {
+     padding: 15px;
+     width: 300px;
+     height: 480px;
+     border-radius: 5px;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     margin-top: 60px;
+ }
+ .img-bolson {
+     width: 70%;
+     height: 40%;
+ margin: 5px;
+     border-radius: 300px;
+     border-width: 2px;
+    
+ }
+ .contact-redes  {
+     display: flex;
+     font-size: 1.5em;
+     flex-direction: row;
+     gap: 30px;
+ }
+ }  
+ 
+ 
+ 
+ @media (max-width: 425px) {
+ 
+ }
+ @media (max-width: 375px) {
+ 
+ }
+ @media (max-width: 320px) {
+ 
+ }
+ 
